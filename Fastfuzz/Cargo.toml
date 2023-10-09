@@ -1,0 +1,21 @@
+[package]
+name = "Fastfuzz"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[build-dependencies]
+cc = { version = "1.0", features = ["parallel"] }
+which = "4.4"
+
+
+[dependencies]
+libafl = { path = "../LibAFL/libafl/" }
+libafl_targets = { path = "../LibAFL/libafl_targets/", features = ["sancov_pcguard_hitcounts", "libfuzzer"] }
+serde_json = "1.0.68"
+libafl_bolts = { path = "../LibAFL/libafl_bolts/" }
+# TODO Include it only when building cc
+libafl_cc = { path = "../LibAFL/libafl_cc/" }
+nix = {version = "0.26", package = "nix"}
+clap = { version = "4.0", features = ["default"] }

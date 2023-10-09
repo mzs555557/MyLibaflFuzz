@@ -1,0 +1,664 @@
+1696874929.72930999s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 0, objectives: 0, executions: 0, exec/sec: 0.000
+1696874929.729326515s                   (CLIENT) corpus: 0, objectives: 0, executions: 0, exec/sec: 0.000, shared_mem: 0/6208 (0%)
+1696874929.729432126s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 1, objectives: 0, executions: 1, exec/sec: 0.000
+1696874929.729442364s                   (CLIENT) corpus: 1, objectives: 0, executions: 1, exec/sec: 0.000, shared_mem: 0/6208 (0%)
+1696874929.729808263s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 1, objectives: 0, executions: 1, exec/sec: 0.000
+1696874929.729819477s                   (CLIENT) corpus: 1, objectives: 0, executions: 1, exec/sec: 0.000, shared_mem: 480/6208 (7%)
+1696874929.729905568s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 2, objectives: 0, executions: 2, exec/sec: 0.000
+1696874929.729915244s                   (CLIENT) corpus: 2, objectives: 0, executions: 2, exec/sec: 0.000, shared_mem: 480/6208 (7%)
+1696874929.730395316s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 2, objectives: 0, executions: 2, exec/sec: 0.000
+1696874929.730409492s                   (CLIENT) corpus: 2, objectives: 0, executions: 2, exec/sec: 0.000, shared_mem: 544/6208 (8%)
+1696874929.730506074s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 3, objectives: 0, executions: 3, exec/sec: 0.000
+1696874929.730515838s                   (CLIENT) corpus: 3, objectives: 0, executions: 3, exec/sec: 0.000, shared_mem: 544/6208 (8%)
+1696874929.730997724s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 3, objectives: 0, executions: 3, exec/sec: 0.000
+1696874929.731011321s                   (CLIENT) corpus: 3, objectives: 0, executions: 3, exec/sec: 0.000, shared_mem: 599/6208 (9%)
+1696874929.731107839s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 4, objectives: 0, executions: 4, exec/sec: 0.000
+1696874929.731117449s                   (CLIENT) corpus: 4, objectives: 0, executions: 4, exec/sec: 0.000, shared_mem: 599/6208 (9%)
+1696874929.732795526s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 4, objectives: 0, executions: 4, exec/sec: 0.000
+1696874929.732811961s                   (CLIENT) corpus: 4, objectives: 0, executions: 4, exec/sec: 0.000, shared_mem: 611/6208 (9%)
+1696874929.732912563s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 5, objectives: 0, executions: 9, exec/sec: 0.000
+1696874929.732927176s                   (CLIENT) corpus: 5, objectives: 0, executions: 9, exec/sec: 0.000, shared_mem: 611/6208 (9%)
+1696874929.733457059s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 5, objectives: 0, executions: 9, exec/sec: 0.000
+1696874929.733473053s                   (CLIENT) corpus: 5, objectives: 0, executions: 9, exec/sec: 0.000, shared_mem: 624/6208 (10%)
+1696874929.73356983s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 6, objectives: 0, executions: 11, exec/sec: 0.000
+1696874929.733584507s                   (CLIENT) corpus: 6, objectives: 0, executions: 11, exec/sec: 0.000, shared_mem: 624/6208 (10%)
+1696874929.736251029s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 6, objectives: 0, executions: 11, exec/sec: 0.000
+1696874929.736267361s                   (CLIENT) corpus: 6, objectives: 0, executions: 11, exec/sec: 0.000, shared_mem: 634/6208 (10%)
+1696874929.736372577s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 7, objectives: 0, executions: 22, exec/sec: 0.000
+1696874929.736387284s                   (CLIENT) corpus: 7, objectives: 0, executions: 22, exec/sec: 0.000, shared_mem: 634/6208 (10%)
+1696874929.738548947s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 7, objectives: 0, executions: 22, exec/sec: 0.000
+1696874929.738565178s                   (CLIENT) corpus: 7, objectives: 0, executions: 22, exec/sec: 0.000, shared_mem: 644/6208 (10%)
+1696874929.738671365s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 8, objectives: 0, executions: 31, exec/sec: 0.000
+1696874929.7386897s                   (CLIENT) corpus: 8, objectives: 0, executions: 31, exec/sec: 0.000, shared_mem: 644/6208 (10%)
+1696874929.739229477s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 8, objectives: 0, executions: 31, exec/sec: 0.000
+1696874929.739244775s                   (CLIENT) corpus: 8, objectives: 0, executions: 31, exec/sec: 0.000, shared_mem: 648/6208 (10%)
+1696874929.739340841s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 9, objectives: 0, executions: 33, exec/sec: 0.000
+1696874929.739355317s                   (CLIENT) corpus: 9, objectives: 0, executions: 33, exec/sec: 0.000, shared_mem: 648/6208 (10%)
+1696874929.739926233s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 9, objectives: 0, executions: 33, exec/sec: 0.000
+1696874929.739941237s                   (CLIENT) corpus: 9, objectives: 0, executions: 33, exec/sec: 0.000, shared_mem: 649/6208 (10%)
+1696874929.740042215s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 10, objectives: 0, executions: 35, exec/sec: 0.000
+1696874929.740057358s                   (CLIENT) corpus: 10, objectives: 0, executions: 35, exec/sec: 0.000, shared_mem: 649/6208 (10%)
+1696874929.741879738s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 10, objectives: 0, executions: 35, exec/sec: 0.000
+1696874929.741895583s                   (CLIENT) corpus: 10, objectives: 0, executions: 35, exec/sec: 0.000, shared_mem: 650/6208 (10%)
+1696874929.742004256s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 11, objectives: 0, executions: 43, exec/sec: 0.000
+1696874929.742019176s                   (CLIENT) corpus: 11, objectives: 0, executions: 43, exec/sec: 0.000, shared_mem: 650/6208 (10%)
+1696874929.742603559s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 11, objectives: 0, executions: 43, exec/sec: 0.000
+1696874929.742618915s                   (CLIENT) corpus: 11, objectives: 0, executions: 43, exec/sec: 0.000, shared_mem: 659/6208 (10%)
+1696874929.742717946s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 12, objectives: 0, executions: 45, exec/sec: 0.000
+1696874929.742732584s                   (CLIENT) corpus: 12, objectives: 0, executions: 45, exec/sec: 0.000, shared_mem: 659/6208 (10%)
+1696874929.745694724s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 12, objectives: 0, executions: 45, exec/sec: 0.000
+1696874929.745710985s                   (CLIENT) corpus: 12, objectives: 0, executions: 45, exec/sec: 0.000, shared_mem: 660/6208 (10%)
+1696874929.745820328s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 13, objectives: 0, executions: 58, exec/sec: 0.000
+1696874929.745835046s                   (CLIENT) corpus: 13, objectives: 0, executions: 58, exec/sec: 0.000, shared_mem: 660/6208 (10%)
+1696874929.746110873s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 13, objectives: 0, executions: 58, exec/sec: 0.000
+1696874929.746127908s                   (CLIENT) corpus: 13, objectives: 0, executions: 58, exec/sec: 0.000, shared_mem: 661/6208 (10%)
+1696874929.746243165s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 14, objectives: 0, executions: 59, exec/sec: 0.000
+1696874929.746258047s                   (CLIENT) corpus: 14, objectives: 0, executions: 59, exec/sec: 0.000, shared_mem: 661/6208 (10%)
+1696874929.751327392s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 14, objectives: 0, executions: 59, exec/sec: 0.000
+1696874929.751345171s                   (CLIENT) corpus: 14, objectives: 0, executions: 59, exec/sec: 0.000, shared_mem: 677/6208 (10%)
+1696874929.751487124s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 15, objectives: 0, executions: 80, exec/sec: 0.000
+1696874929.751502597s                   (CLIENT) corpus: 15, objectives: 0, executions: 80, exec/sec: 0.000, shared_mem: 677/6208 (10%)
+1696874929.75289794s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 15, objectives: 0, executions: 80, exec/sec: 0.000
+1696874929.752913858s                   (CLIENT) corpus: 15, objectives: 0, executions: 80, exec/sec: 0.000, shared_mem: 678/6208 (10%)
+1696874929.7530148s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 16, objectives: 0, executions: 86, exec/sec: 0.000
+1696874929.753029867s                   (CLIENT) corpus: 16, objectives: 0, executions: 86, exec/sec: 0.000, shared_mem: 678/6208 (10%)
+1696874929.75394965s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 16, objectives: 0, executions: 86, exec/sec: 0.000
+1696874929.75396536s                   (CLIENT) corpus: 16, objectives: 0, executions: 86, exec/sec: 0.000, shared_mem: 679/6208 (10%)
+1696874929.754076739s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 17, objectives: 0, executions: 90, exec/sec: 0.000
+1696874929.75409227s                   (CLIENT) corpus: 17, objectives: 0, executions: 90, exec/sec: 0.000, shared_mem: 679/6208 (10%)
+1696874929.754637238s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 17, objectives: 0, executions: 90, exec/sec: 0.000
+1696874929.754653222s                   (CLIENT) corpus: 17, objectives: 0, executions: 90, exec/sec: 0.000, shared_mem: 680/6208 (10%)
+1696874929.754755873s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 18, objectives: 0, executions: 92, exec/sec: 0.000
+1696874929.754770978s                   (CLIENT) corpus: 18, objectives: 0, executions: 92, exec/sec: 0.000, shared_mem: 680/6208 (10%)
+1696874929.758392181s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 18, objectives: 0, executions: 92, exec/sec: 0.000
+1696874929.758408755s                   (CLIENT) corpus: 18, objectives: 0, executions: 92, exec/sec: 0.000, shared_mem: 689/6208 (11%)
+1696874929.758533196s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 19, objectives: 0, executions: 107, exec/sec: 0.000
+1696874929.758548059s                   (CLIENT) corpus: 19, objectives: 0, executions: 107, exec/sec: 0.000, shared_mem: 689/6208 (11%)
+1696874929.760918582s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 19, objectives: 0, executions: 107, exec/sec: 0.000
+1696874929.760934634s                   (CLIENT) corpus: 19, objectives: 0, executions: 107, exec/sec: 0.000, shared_mem: 690/6208 (11%)
+1696874929.761054827s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 20, objectives: 0, executions: 116, exec/sec: 0.000
+1696874929.761070143s                   (CLIENT) corpus: 20, objectives: 0, executions: 116, exec/sec: 0.000, shared_mem: 690/6208 (11%)
+1696874929.76134484s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 20, objectives: 0, executions: 116, exec/sec: 0.000
+1696874929.761360456s                   (CLIENT) corpus: 20, objectives: 0, executions: 116, exec/sec: 0.000, shared_mem: 693/6208 (11%)
+1696874929.761480337s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 21, objectives: 0, executions: 117, exec/sec: 0.000
+1696874929.761495399s                   (CLIENT) corpus: 21, objectives: 0, executions: 117, exec/sec: 0.000, shared_mem: 693/6208 (11%)
+1696874929.761761281s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 21, objectives: 0, executions: 117, exec/sec: 0.000
+1696874929.761776645s                   (CLIENT) corpus: 21, objectives: 0, executions: 117, exec/sec: 0.000, shared_mem: 694/6208 (11%)
+1696874929.761880583s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 22, objectives: 0, executions: 118, exec/sec: 0.000
+1696874929.761895341s                   (CLIENT) corpus: 22, objectives: 0, executions: 118, exec/sec: 0.000, shared_mem: 694/6208 (11%)
+1696874929.76449154s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 22, objectives: 0, executions: 118, exec/sec: 0.000
+1696874929.764508418s                   (CLIENT) corpus: 22, objectives: 0, executions: 118, exec/sec: 0.000, shared_mem: 695/6208 (11%)
+1696874929.764624034s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 23, objectives: 0, executions: 129, exec/sec: 0.000
+1696874929.764639198s                   (CLIENT) corpus: 23, objectives: 0, executions: 129, exec/sec: 0.000, shared_mem: 695/6208 (11%)
+1696874929.772066764s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 23, objectives: 0, executions: 129, exec/sec: 0.000
+1696874929.772083782s                   (CLIENT) corpus: 23, objectives: 0, executions: 129, exec/sec: 0.000, shared_mem: 696/6208 (11%)
+1696874929.772216689s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 24, objectives: 0, executions: 161, exec/sec: 0.000
+1696874929.772231802s                   (CLIENT) corpus: 24, objectives: 0, executions: 161, exec/sec: 0.000, shared_mem: 696/6208 (11%)
+1696874929.781333176s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 24, objectives: 0, executions: 161, exec/sec: 0.000
+1696874929.781350208s                   (CLIENT) corpus: 24, objectives: 0, executions: 161, exec/sec: 0.000, shared_mem: 697/6208 (11%)
+1696874929.781465898s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 25, objectives: 0, executions: 201, exec/sec: 0.000
+1696874929.781481341s                   (CLIENT) corpus: 25, objectives: 0, executions: 201, exec/sec: 0.000, shared_mem: 697/6208 (11%)
+1696874929.784010159s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 25, objectives: 0, executions: 201, exec/sec: 0.000
+1696874929.784026902s                   (CLIENT) corpus: 25, objectives: 0, executions: 201, exec/sec: 0.000, shared_mem: 699/6208 (11%)
+1696874929.784152588s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 26, objectives: 0, executions: 212, exec/sec: 0.000
+1696874929.784167611s                   (CLIENT) corpus: 26, objectives: 0, executions: 212, exec/sec: 0.000, shared_mem: 699/6208 (11%)
+1696874929.786898245s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 26, objectives: 0, executions: 212, exec/sec: 0.000
+1696874929.786914812s                   (CLIENT) corpus: 26, objectives: 0, executions: 212, exec/sec: 0.000, shared_mem: 700/6208 (11%)
+1696874929.787058307s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 27, objectives: 0, executions: 222, exec/sec: 0.000
+1696874929.787073236s                   (CLIENT) corpus: 27, objectives: 0, executions: 222, exec/sec: 0.000, shared_mem: 700/6208 (11%)
+1696874929.787435043s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 27, objectives: 0, executions: 222, exec/sec: 0.000
+1696874929.787450608s                   (CLIENT) corpus: 27, objectives: 0, executions: 222, exec/sec: 0.000, shared_mem: 709/6208 (11%)
+1696874929.787593673s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 28, objectives: 0, executions: 223, exec/sec: 0.000
+1696874929.787608206s                   (CLIENT) corpus: 28, objectives: 0, executions: 223, exec/sec: 0.000, shared_mem: 709/6208 (11%)
+1696874929.792005402s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 28, objectives: 0, executions: 223, exec/sec: 0.000
+1696874929.792022s                   (CLIENT) corpus: 28, objectives: 0, executions: 223, exec/sec: 0.000, shared_mem: 719/6208 (11%)
+1696874929.792146316s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 29, objectives: 0, executions: 242, exec/sec: 0.000
+1696874929.792161124s                   (CLIENT) corpus: 29, objectives: 0, executions: 242, exec/sec: 0.000, shared_mem: 719/6208 (11%)
+1696874929.794534256s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 29, objectives: 0, executions: 242, exec/sec: 0.000
+1696874929.79455081s                   (CLIENT) corpus: 29, objectives: 0, executions: 242, exec/sec: 0.000, shared_mem: 720/6208 (11%)
+1696874929.794681878s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 30, objectives: 0, executions: 252, exec/sec: 0.000
+1696874929.794696865s                   (CLIENT) corpus: 30, objectives: 0, executions: 252, exec/sec: 0.000, shared_mem: 720/6208 (11%)
+1696874929.796336271s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 30, objectives: 0, executions: 252, exec/sec: 0.000
+1696874929.79635216s                   (CLIENT) corpus: 30, objectives: 0, executions: 252, exec/sec: 0.000, shared_mem: 720/6208 (11%)
+1696874929.796475218s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 31, objectives: 0, executions: 259, exec/sec: 0.000
+1696874929.796490153s                   (CLIENT) corpus: 31, objectives: 0, executions: 259, exec/sec: 0.000, shared_mem: 720/6208 (11%)
+1696874929.801181143s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 31, objectives: 0, executions: 259, exec/sec: 0.000
+1696874929.801197794s                   (CLIENT) corpus: 31, objectives: 0, executions: 259, exec/sec: 0.000, shared_mem: 721/6208 (11%)
+1696874929.801313578s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 32, objectives: 0, executions: 279, exec/sec: 0.000
+1696874929.80132858s                   (CLIENT) corpus: 32, objectives: 0, executions: 279, exec/sec: 0.000, shared_mem: 721/6208 (11%)
+1696874929.803888028s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 32, objectives: 0, executions: 279, exec/sec: 0.000
+1696874929.803904533s                   (CLIENT) corpus: 32, objectives: 0, executions: 279, exec/sec: 0.000, shared_mem: 722/6208 (11%)
+1696874929.804039262s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 33, objectives: 0, executions: 290, exec/sec: 0.000
+1696874929.804054219s                   (CLIENT) corpus: 33, objectives: 0, executions: 290, exec/sec: 0.000, shared_mem: 722/6208 (11%)
+1696874929.804331799s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 33, objectives: 0, executions: 290, exec/sec: 0.000
+1696874929.804349377s                   (CLIENT) corpus: 33, objectives: 0, executions: 290, exec/sec: 0.000, shared_mem: 735/6208 (11%)
+1696874929.804480451s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 34, objectives: 0, executions: 291, exec/sec: 0.000
+1696874929.804495229s                   (CLIENT) corpus: 34, objectives: 0, executions: 291, exec/sec: 0.000, shared_mem: 735/6208 (11%)
+1696874929.808853845s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 34, objectives: 0, executions: 291, exec/sec: 0.000
+1696874929.808870308s                   (CLIENT) corpus: 34, objectives: 0, executions: 291, exec/sec: 0.000, shared_mem: 736/6208 (11%)
+1696874929.809004805s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 35, objectives: 0, executions: 309, exec/sec: 0.000
+1696874929.809019749s                   (CLIENT) corpus: 35, objectives: 0, executions: 309, exec/sec: 0.000, shared_mem: 736/6208 (11%)
+1696874929.810697553s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 35, objectives: 0, executions: 309, exec/sec: 0.000
+1696874929.810714545s                   (CLIENT) corpus: 35, objectives: 0, executions: 309, exec/sec: 0.000, shared_mem: 737/6208 (11%)
+1696874929.810833496s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 36, objectives: 0, executions: 316, exec/sec: 0.000
+1696874929.810848402s                   (CLIENT) corpus: 36, objectives: 0, executions: 316, exec/sec: 0.000, shared_mem: 737/6208 (11%)
+1696874929.817734843s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 36, objectives: 0, executions: 316, exec/sec: 0.000
+1696874929.81775188s                   (CLIENT) corpus: 36, objectives: 0, executions: 316, exec/sec: 0.000, shared_mem: 737/6208 (11%)
+1696874929.817877612s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 37, objectives: 0, executions: 345, exec/sec: 0.000
+1696874929.817892679s                   (CLIENT) corpus: 37, objectives: 0, executions: 345, exec/sec: 0.000, shared_mem: 737/6208 (11%)
+1696874929.830045368s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 37, objectives: 0, executions: 345, exec/sec: 0.000
+1696874929.830066485s                   (CLIENT) corpus: 37, objectives: 0, executions: 345, exec/sec: 0.000, shared_mem: 738/6208 (11%)
+1696874929.830211819s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 38, objectives: 0, executions: 399, exec/sec: 0.000
+1696874929.830226159s                   (CLIENT) corpus: 38, objectives: 0, executions: 399, exec/sec: 0.000, shared_mem: 738/6208 (11%)
+1696874929.937043233s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 38, objectives: 0, executions: 399, exec/sec: 0.000
+1696874929.937061227s                   (CLIENT) corpus: 38, objectives: 0, executions: 399, exec/sec: 0.000, shared_mem: 742/6208 (11%)
+1696874929.937225473s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 39, objectives: 0, executions: 880, exec/sec: 0.000
+1696874929.937240536s                   (CLIENT) corpus: 39, objectives: 0, executions: 880, exec/sec: 0.000, shared_mem: 742/6208 (11%)
+1696874930.049871575s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 39, objectives: 0, executions: 880, exec/sec: 0.000
+1696874930.049890559s                   (CLIENT) corpus: 39, objectives: 0, executions: 880, exec/sec: 0.000, shared_mem: 744/6208 (11%)
+1696874930.050060978s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 40, objectives: 0, executions: 1386, exec/sec: 0.000
+1696874930.050077174s                   (CLIENT) corpus: 40, objectives: 0, executions: 1386, exec/sec: 0.000, shared_mem: 744/6208 (11%)
+1696874930.061275422s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 40, objectives: 0, executions: 1386, exec/sec: 0.000
+1696874930.061288029s                   (CLIENT) corpus: 40, objectives: 0, executions: 1386, exec/sec: 0.000, shared_mem: 752/6208 (12%)
+1696874930.061412905s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 41, objectives: 0, executions: 1435, exec/sec: 0.000
+1696874930.061423017s                   (CLIENT) corpus: 41, objectives: 0, executions: 1435, exec/sec: 0.000, shared_mem: 752/6208 (12%)
+1696874930.099772658s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 41, objectives: 0, executions: 1435, exec/sec: 0.000
+1696874930.099785027s                   (CLIENT) corpus: 41, objectives: 0, executions: 1435, exec/sec: 0.000, shared_mem: 752/6208 (12%)
+1696874930.099890354s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 42, objectives: 0, executions: 1608, exec/sec: 0.000
+1696874930.099899637s                   (CLIENT) corpus: 42, objectives: 0, executions: 1608, exec/sec: 0.000, shared_mem: 752/6208 (12%)
+1696874930.104327257s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 42, objectives: 0, executions: 1608, exec/sec: 0.000
+1696874930.104338289s                   (CLIENT) corpus: 42, objectives: 0, executions: 1608, exec/sec: 0.000, shared_mem: 753/6208 (12%)
+1696874930.104428262s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 43, objectives: 0, executions: 1628, exec/sec: 0.000
+1696874930.104437195s                   (CLIENT) corpus: 43, objectives: 0, executions: 1628, exec/sec: 0.000, shared_mem: 753/6208 (12%)
+1696874930.154682071s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 43, objectives: 0, executions: 1628, exec/sec: 0.000
+1696874930.154695774s                   (CLIENT) corpus: 43, objectives: 0, executions: 1628, exec/sec: 0.000, shared_mem: 753/6208 (12%)
+1696874930.154807278s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 44, objectives: 0, executions: 1852, exec/sec: 0.000
+1696874930.154816807s                   (CLIENT) corpus: 44, objectives: 0, executions: 1852, exec/sec: 0.000, shared_mem: 753/6208 (12%)
+1696874930.21063623s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 44, objectives: 0, executions: 1852, exec/sec: 0.000
+1696874930.210650304s                   (CLIENT) corpus: 44, objectives: 0, executions: 1852, exec/sec: 0.000, shared_mem: 754/6208 (12%)
+1696874930.210757858s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 45, objectives: 0, executions: 2102, exec/sec: 0.000
+1696874930.210767614s                   (CLIENT) corpus: 45, objectives: 0, executions: 2102, exec/sec: 0.000, shared_mem: 754/6208 (12%)
+1696874930.25550865s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 45, objectives: 0, executions: 2102, exec/sec: 0.000
+1696874930.255527034s                   (CLIENT) corpus: 45, objectives: 0, executions: 2102, exec/sec: 0.000, shared_mem: 755/6208 (12%)
+1696874930.255691434s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 46, objectives: 0, executions: 2296, exec/sec: 0.000
+1696874930.255706136s                   (CLIENT) corpus: 46, objectives: 0, executions: 2296, exec/sec: 0.000, shared_mem: 755/6208 (12%)
+1696874930.27016318s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 46, objectives: 0, executions: 2296, exec/sec: 0.000
+1696874930.270180015s                   (CLIENT) corpus: 46, objectives: 0, executions: 2296, exec/sec: 0.000, shared_mem: 755/6208 (12%)
+1696874930.270311593s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 47, objectives: 0, executions: 2358, exec/sec: 0.000
+1696874930.270325394s                   (CLIENT) corpus: 47, objectives: 0, executions: 2358, exec/sec: 0.000, shared_mem: 755/6208 (12%)
+1696874930.272336076s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 47, objectives: 0, executions: 2358, exec/sec: 0.000
+1696874930.272352161s                   (CLIENT) corpus: 47, objectives: 0, executions: 2358, exec/sec: 0.000, shared_mem: 755/6208 (12%)
+1696874930.272485194s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 48, objectives: 0, executions: 2366, exec/sec: 0.000
+1696874930.272500534s                   (CLIENT) corpus: 48, objectives: 0, executions: 2366, exec/sec: 0.000, shared_mem: 755/6208 (12%)
+1696874930.289648699s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 48, objectives: 0, executions: 2366, exec/sec: 0.000
+1696874930.289665059s                   (CLIENT) corpus: 48, objectives: 0, executions: 2366, exec/sec: 0.000, shared_mem: 758/6208 (12%)
+1696874930.28981725s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 49, objectives: 0, executions: 2439, exec/sec: 0.000
+1696874930.289832854s                   (CLIENT) corpus: 49, objectives: 0, executions: 2439, exec/sec: 0.000, shared_mem: 758/6208 (12%)
+1696874930.299310719s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 49, objectives: 0, executions: 2439, exec/sec: 0.000
+1696874930.299327234s                   (CLIENT) corpus: 49, objectives: 0, executions: 2439, exec/sec: 0.000, shared_mem: 763/6208 (12%)
+1696874930.299453644s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 50, objectives: 0, executions: 2479, exec/sec: 0.000
+1696874930.299468147s                   (CLIENT) corpus: 50, objectives: 0, executions: 2479, exec/sec: 0.000, shared_mem: 763/6208 (12%)
+1696874930.33266423s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 50, objectives: 0, executions: 2479, exec/sec: 0.000
+1696874930.332682307s                   (CLIENT) corpus: 50, objectives: 0, executions: 2479, exec/sec: 0.000, shared_mem: 764/6208 (12%)
+1696874930.332835291s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 51, objectives: 0, executions: 2622, exec/sec: 0.000
+1696874930.332850165s                   (CLIENT) corpus: 51, objectives: 0, executions: 2622, exec/sec: 0.000, shared_mem: 764/6208 (12%)
+1696874930.363881065s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 51, objectives: 0, executions: 2622, exec/sec: 0.000
+1696874930.363900899s                   (CLIENT) corpus: 51, objectives: 0, executions: 2622, exec/sec: 0.000, shared_mem: 765/6208 (12%)
+1696874930.364055004s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 52, objectives: 0, executions: 2751, exec/sec: 0.000
+1696874930.364070261s                   (CLIENT) corpus: 52, objectives: 0, executions: 2751, exec/sec: 0.000, shared_mem: 765/6208 (12%)
+1696874930.390378502s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 52, objectives: 0, executions: 2751, exec/sec: 0.000
+1696874930.39039699s                   (CLIENT) corpus: 52, objectives: 0, executions: 2751, exec/sec: 0.000, shared_mem: 766/6208 (12%)
+1696874930.390546779s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 53, objectives: 0, executions: 2856, exec/sec: 0.000
+1696874930.390562274s                   (CLIENT) corpus: 53, objectives: 0, executions: 2856, exec/sec: 0.000, shared_mem: 766/6208 (12%)
+1696874930.390851848s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 53, objectives: 0, executions: 2856, exec/sec: 0.000
+1696874930.390867862s                   (CLIENT) corpus: 53, objectives: 0, executions: 2856, exec/sec: 0.000, shared_mem: 767/6208 (12%)
+1696874930.390981269s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 54, objectives: 0, executions: 2857, exec/sec: 0.000
+1696874930.390996387s                   (CLIENT) corpus: 54, objectives: 0, executions: 2857, exec/sec: 0.000, shared_mem: 767/6208 (12%)
+1696874930.395974584s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 54, objectives: 0, executions: 2857, exec/sec: 0.000
+1696874930.395990925s                   (CLIENT) corpus: 54, objectives: 0, executions: 2857, exec/sec: 0.000, shared_mem: 768/6208 (12%)
+1696874930.39612214s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 55, objectives: 0, executions: 2877, exec/sec: 0.000
+1696874930.396137186s                   (CLIENT) corpus: 55, objectives: 0, executions: 2877, exec/sec: 0.000, shared_mem: 768/6208 (12%)
+1696874930.397644563s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 55, objectives: 0, executions: 2877, exec/sec: 0.000
+1696874930.397659789s                   (CLIENT) corpus: 55, objectives: 0, executions: 2877, exec/sec: 0.000, shared_mem: 771/6208 (12%)
+1696874930.39778209s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 56, objectives: 0, executions: 2883, exec/sec: 0.000
+1696874930.397797401s                   (CLIENT) corpus: 56, objectives: 0, executions: 2883, exec/sec: 0.000, shared_mem: 771/6208 (12%)
+1696874930.401116249s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 56, objectives: 0, executions: 2883, exec/sec: 0.000
+1696874930.401131926s                   (CLIENT) corpus: 56, objectives: 0, executions: 2883, exec/sec: 0.000, shared_mem: 771/6208 (12%)
+1696874930.401268126s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 57, objectives: 0, executions: 2896, exec/sec: 0.000
+1696874930.401283415s                   (CLIENT) corpus: 57, objectives: 0, executions: 2896, exec/sec: 0.000, shared_mem: 771/6208 (12%)
+1696874930.426197063s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 57, objectives: 0, executions: 2896, exec/sec: 0.000
+1696874930.426217686s                   (CLIENT) corpus: 57, objectives: 0, executions: 2896, exec/sec: 0.000, shared_mem: 772/6208 (12%)
+1696874930.426374153s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 58, objectives: 0, executions: 2998, exec/sec: 0.000
+1696874930.426389131s                   (CLIENT) corpus: 58, objectives: 0, executions: 2998, exec/sec: 0.000, shared_mem: 772/6208 (12%)
+1696874930.44012465s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 58, objectives: 0, executions: 2998, exec/sec: 0.000
+1696874930.440142614s                   (CLIENT) corpus: 58, objectives: 0, executions: 2998, exec/sec: 0.000, shared_mem: 774/6208 (12%)
+1696874930.440292575s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 59, objectives: 0, executions: 3054, exec/sec: 0.000
+1696874930.440307498s                   (CLIENT) corpus: 59, objectives: 0, executions: 3054, exec/sec: 0.000, shared_mem: 774/6208 (12%)
+1696874930.448563293s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 59, objectives: 0, executions: 3054, exec/sec: 0.000
+1696874930.448586266s                   (CLIENT) corpus: 59, objectives: 0, executions: 3054, exec/sec: 0.000, shared_mem: 775/6208 (12%)
+1696874930.448729055s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 60, objectives: 0, executions: 3086, exec/sec: 0.000
+1696874930.448744464s                   (CLIENT) corpus: 60, objectives: 0, executions: 3086, exec/sec: 0.000, shared_mem: 775/6208 (12%)
+1696874930.490600664s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 60, objectives: 0, executions: 3086, exec/sec: 0.000
+1696874930.490619207s                   (CLIENT) corpus: 60, objectives: 0, executions: 3086, exec/sec: 0.000, shared_mem: 777/6208 (12%)
+1696874930.490779706s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 61, objectives: 0, executions: 3257, exec/sec: 0.000
+1696874930.490794715s                   (CLIENT) corpus: 61, objectives: 0, executions: 3257, exec/sec: 0.000, shared_mem: 777/6208 (12%)
+1696874930.497185401s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 61, objectives: 0, executions: 3257, exec/sec: 0.000
+1696874930.497199299s                   (CLIENT) corpus: 61, objectives: 0, executions: 3257, exec/sec: 0.000, shared_mem: 778/6208 (12%)
+1696874930.497310554s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 62, objectives: 0, executions: 3282, exec/sec: 0.000
+1696874930.497320189s                   (CLIENT) corpus: 62, objectives: 0, executions: 3282, exec/sec: 0.000, shared_mem: 778/6208 (12%)
+1696874930.521908561s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 62, objectives: 0, executions: 3282, exec/sec: 0.000
+1696874930.521921444s                   (CLIENT) corpus: 62, objectives: 0, executions: 3282, exec/sec: 0.000, shared_mem: 779/6208 (12%)
+1696874930.522031415s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 63, objectives: 0, executions: 3391, exec/sec: 0.000
+1696874930.52204152s                   (CLIENT) corpus: 63, objectives: 0, executions: 3391, exec/sec: 0.000, shared_mem: 779/6208 (12%)
+1696874930.533121393s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 63, objectives: 0, executions: 3391, exec/sec: 0.000
+1696874930.533133311s                   (CLIENT) corpus: 63, objectives: 0, executions: 3391, exec/sec: 0.000, shared_mem: 780/6208 (12%)
+1696874930.533233209s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 64, objectives: 0, executions: 3441, exec/sec: 0.000
+1696874930.533243753s                   (CLIENT) corpus: 64, objectives: 0, executions: 3441, exec/sec: 0.000, shared_mem: 780/6208 (12%)
+1696874930.57205512s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 64, objectives: 0, executions: 3441, exec/sec: 0.000
+1696874930.572074181s                   (CLIENT) corpus: 64, objectives: 0, executions: 3441, exec/sec: 0.000, shared_mem: 780/6208 (12%)
+1696874930.572241675s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 65, objectives: 0, executions: 3612, exec/sec: 0.000
+1696874930.572257181s                   (CLIENT) corpus: 65, objectives: 0, executions: 3612, exec/sec: 0.000, shared_mem: 780/6208 (12%)
+1696874930.649754274s [Stats       #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 65, objectives: 0, executions: 3612, exec/sec: 0.000
+1696874930.649773272s                   (CLIENT) corpus: 65, objectives: 0, executions: 3612, exec/sec: 0.000, shared_mem: 781/6208 (12%)
+1696874930.649933177s [Testcase    #0]  (GLOBAL) run time: 0h-0m-0s, clients: 1, corpus: 66, objectives: 0, executions: 3936, exec/sec: 0.000
+1696874930.649948836s                   (CLIENT) corpus: 66, objectives: 0, executions: 3936, exec/sec: 0.000, shared_mem: 781/6208 (12%)
+1696874930.769682456s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 66, objectives: 0, executions: 3936, exec/sec: 3.783k
+1696874930.769696294s                   (CLIENT) corpus: 66, objectives: 0, executions: 3936, exec/sec: 3.783k, shared_mem: 782/6208 (12%)
+1696874930.76981801s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 67, objectives: 0, executions: 4437, exec/sec: 4.264k
+1696874930.769828023s                   (CLIENT) corpus: 67, objectives: 0, executions: 4437, exec/sec: 4.264k, shared_mem: 782/6208 (12%)
+1696874930.918311879s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 67, objectives: 0, executions: 4437, exec/sec: 3.732k
+1696874930.918325063s                   (CLIENT) corpus: 67, objectives: 0, executions: 4437, exec/sec: 3.732k, shared_mem: 783/6208 (12%)
+1696874930.918440376s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 68, objectives: 0, executions: 5076, exec/sec: 4.269k
+1696874930.918449613s                   (CLIENT) corpus: 68, objectives: 0, executions: 5076, exec/sec: 4.269k, shared_mem: 783/6208 (12%)
+1696874930.924191828s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 68, objectives: 0, executions: 5076, exec/sec: 4.248k
+1696874930.924203882s                   (CLIENT) corpus: 68, objectives: 0, executions: 5076, exec/sec: 4.248k, shared_mem: 784/6208 (12%)
+1696874930.924296083s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 69, objectives: 0, executions: 5101, exec/sec: 4.269k
+1696874930.924305648s                   (CLIENT) corpus: 69, objectives: 0, executions: 5101, exec/sec: 4.269k, shared_mem: 784/6208 (12%)
+1696874930.999177592s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 69, objectives: 0, executions: 5101, exec/sec: 4.017k
+1696874930.999192232s                   (CLIENT) corpus: 69, objectives: 0, executions: 5101, exec/sec: 4.017k, shared_mem: 785/6208 (12%)
+1696874930.999305613s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 70, objectives: 0, executions: 5422, exec/sec: 4.269k
+1696874930.999314901s                   (CLIENT) corpus: 70, objectives: 0, executions: 5422, exec/sec: 4.269k, shared_mem: 785/6208 (12%)
+1696874931.125059561s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 70, objectives: 0, executions: 5422, exec/sec: 3.885k
+1696874931.125076319s                   (CLIENT) corpus: 70, objectives: 0, executions: 5422, exec/sec: 3.885k, shared_mem: 785/6208 (12%)
+1696874931.125204244s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 71, objectives: 0, executions: 5968, exec/sec: 4.275k
+1696874931.125214032s                   (CLIENT) corpus: 71, objectives: 0, executions: 5968, exec/sec: 4.275k, shared_mem: 785/6208 (12%)
+1696874931.177776249s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 71, objectives: 0, executions: 5968, exec/sec: 4.120k
+1696874931.177790749s                   (CLIENT) corpus: 71, objectives: 0, executions: 5968, exec/sec: 4.120k, shared_mem: 785/6208 (12%)
+1696874931.177908295s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 72, objectives: 0, executions: 6193, exec/sec: 4.275k
+1696874931.177918132s                   (CLIENT) corpus: 72, objectives: 0, executions: 6193, exec/sec: 4.275k, shared_mem: 785/6208 (12%)
+1696874931.33352127s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 72, objectives: 0, executions: 6193, exec/sec: 3.860k
+1696874931.333537154s                   (CLIENT) corpus: 72, objectives: 0, executions: 6193, exec/sec: 3.860k, shared_mem: 786/6208 (12%)
+1696874931.333652299s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 73, objectives: 0, executions: 6868, exec/sec: 4.281k
+1696874931.333662152s                   (CLIENT) corpus: 73, objectives: 0, executions: 6868, exec/sec: 4.281k, shared_mem: 786/6208 (12%)
+1696874931.439181444s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 73, objectives: 0, executions: 6868, exec/sec: 4.017k
+1696874931.439196178s                   (CLIENT) corpus: 73, objectives: 0, executions: 6868, exec/sec: 4.017k, shared_mem: 786/6208 (12%)
+1696874931.439316333s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 74, objectives: 0, executions: 7341, exec/sec: 4.293k
+1696874931.439328212s                   (CLIENT) corpus: 74, objectives: 0, executions: 7341, exec/sec: 4.293k, shared_mem: 786/6208 (12%)
+1696874931.630223801s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 74, objectives: 0, executions: 7341, exec/sec: 3.862k
+1696874931.630238476s                   (CLIENT) corpus: 74, objectives: 0, executions: 7341, exec/sec: 3.862k, shared_mem: 786/6208 (12%)
+1696874931.630363527s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 75, objectives: 0, executions: 8162, exec/sec: 4.293k
+1696874931.630373139s                   (CLIENT) corpus: 75, objectives: 0, executions: 8162, exec/sec: 4.293k, shared_mem: 786/6208 (12%)
+1696874931.664336538s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 75, objectives: 0, executions: 8162, exec/sec: 4.218k
+1696874931.664351001s                   (CLIENT) corpus: 75, objectives: 0, executions: 8162, exec/sec: 4.218k, shared_mem: 786/6208 (12%)
+1696874931.664477163s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 76, objectives: 0, executions: 8304, exec/sec: 4.291k
+1696874931.664487011s                   (CLIENT) corpus: 76, objectives: 0, executions: 8304, exec/sec: 4.291k, shared_mem: 786/6208 (12%)
+1696874931.679110507s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 76, objectives: 0, executions: 8304, exec/sec: 4.259k
+1696874931.679124537s                   (CLIENT) corpus: 76, objectives: 0, executions: 8304, exec/sec: 4.259k, shared_mem: 787/6208 (12%)
+1696874931.679271516s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 77, objectives: 0, executions: 8366, exec/sec: 4.290k
+1696874931.679281516s                   (CLIENT) corpus: 77, objectives: 0, executions: 8366, exec/sec: 4.290k, shared_mem: 787/6208 (12%)
+1696874931.701461603s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 77, objectives: 0, executions: 8366, exec/sec: 4.242k
+1696874931.701475915s                   (CLIENT) corpus: 77, objectives: 0, executions: 8366, exec/sec: 4.242k, shared_mem: 787/6208 (12%)
+1696874931.701574267s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 78, objectives: 0, executions: 8461, exec/sec: 4.290k
+1696874931.701583913s                   (CLIENT) corpus: 78, objectives: 0, executions: 8461, exec/sec: 4.290k, shared_mem: 787/6208 (12%)
+1696874931.722861051s [Stats       #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 78, objectives: 0, executions: 8461, exec/sec: 4.244k
+1696874931.722875398s                   (CLIENT) corpus: 78, objectives: 0, executions: 8461, exec/sec: 4.244k, shared_mem: 788/6208 (12%)
+1696874931.722986914s [Testcase    #0]  (GLOBAL) run time: 0h-0m-1s, clients: 1, corpus: 79, objectives: 0, executions: 8551, exec/sec: 4.289k
+1696874931.722996673s                   (CLIENT) corpus: 79, objectives: 0, executions: 8551, exec/sec: 4.289k, shared_mem: 788/6208 (12%)
+1696874931.8074517s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 79, objectives: 0, executions: 8551, exec/sec: 4.115k
+1696874931.807466519s                   (CLIENT) corpus: 79, objectives: 0, executions: 8551, exec/sec: 4.115k, shared_mem: 788/6208 (12%)
+1696874931.807585334s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 80, objectives: 0, executions: 8920, exec/sec: 4.292k
+1696874931.807595529s                   (CLIENT) corpus: 80, objectives: 0, executions: 8920, exec/sec: 4.292k, shared_mem: 788/6208 (12%)
+1696874931.985883347s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 80, objectives: 0, executions: 8920, exec/sec: 3.953k
+1696874931.985897882s                   (CLIENT) corpus: 80, objectives: 0, executions: 8920, exec/sec: 3.953k, shared_mem: 788/6208 (12%)
+1696874931.986027625s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 81, objectives: 0, executions: 9683, exec/sec: 4.291k
+1696874931.986038039s                   (CLIENT) corpus: 81, objectives: 0, executions: 9683, exec/sec: 4.291k, shared_mem: 788/6208 (12%)
+1696874932.059386889s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 81, objectives: 0, executions: 9683, exec/sec: 4.156k
+1696874932.05940176s                   (CLIENT) corpus: 81, objectives: 0, executions: 9683, exec/sec: 4.156k, shared_mem: 788/6208 (12%)
+1696874932.059525805s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 82, objectives: 0, executions: 9997, exec/sec: 4.290k
+1696874932.059535603s                   (CLIENT) corpus: 82, objectives: 0, executions: 9997, exec/sec: 4.290k, shared_mem: 788/6208 (12%)
+1696874932.08504887s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 82, objectives: 0, executions: 9997, exec/sec: 4.244k
+1696874932.085063768s                   (CLIENT) corpus: 82, objectives: 0, executions: 9997, exec/sec: 4.244k, shared_mem: 788/6208 (12%)
+1696874932.085177575s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 83, objectives: 0, executions: 10108, exec/sec: 4.291k
+1696874932.085187648s                   (CLIENT) corpus: 83, objectives: 0, executions: 10108, exec/sec: 4.291k, shared_mem: 788/6208 (12%)
+1696874932.104037876s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 83, objectives: 0, executions: 10108, exec/sec: 4.256k
+1696874932.104051308s                   (CLIENT) corpus: 83, objectives: 0, executions: 10108, exec/sec: 4.256k, shared_mem: 788/6208 (12%)
+1696874932.104158403s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 84, objectives: 0, executions: 10188, exec/sec: 4.290k
+1696874932.104168188s                   (CLIENT) corpus: 84, objectives: 0, executions: 10188, exec/sec: 4.290k, shared_mem: 788/6208 (12%)
+1696874932.473155635s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 84, objectives: 0, executions: 10188, exec/sec: 3.713k
+1696874932.473168324s                   (CLIENT) corpus: 84, objectives: 0, executions: 10188, exec/sec: 3.713k, shared_mem: 788/6208 (12%)
+1696874932.473294921s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 85, objectives: 0, executions: 11807, exec/sec: 4.303k
+1696874932.473304724s                   (CLIENT) corpus: 85, objectives: 0, executions: 11807, exec/sec: 4.303k, shared_mem: 788/6208 (12%)
+1696874932.506027039s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 85, objectives: 0, executions: 11807, exec/sec: 4.252k
+1696874932.506041697s                   (CLIENT) corpus: 85, objectives: 0, executions: 11807, exec/sec: 4.252k, shared_mem: 788/6208 (12%)
+1696874932.506181038s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 86, objectives: 0, executions: 11948, exec/sec: 4.303k
+1696874932.506190752s                   (CLIENT) corpus: 86, objectives: 0, executions: 11948, exec/sec: 4.303k, shared_mem: 788/6208 (12%)
+1696874932.707802466s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 86, objectives: 0, executions: 11948, exec/sec: 4.011k
+1696874932.707816601s                   (CLIENT) corpus: 86, objectives: 0, executions: 11948, exec/sec: 4.011k, shared_mem: 788/6208 (12%)
+1696874932.707954204s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 87, objectives: 0, executions: 12832, exec/sec: 4.308k
+1696874932.707964234s                   (CLIENT) corpus: 87, objectives: 0, executions: 12832, exec/sec: 4.308k, shared_mem: 788/6208 (12%)
+1696874932.710494319s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 87, objectives: 0, executions: 12832, exec/sec: 4.304k
+1696874932.710506066s                   (CLIENT) corpus: 87, objectives: 0, executions: 12832, exec/sec: 4.304k, shared_mem: 788/6208 (12%)
+1696874932.710602339s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 88, objectives: 0, executions: 12843, exec/sec: 4.308k
+1696874932.71061184s                   (CLIENT) corpus: 88, objectives: 0, executions: 12843, exec/sec: 4.308k, shared_mem: 788/6208 (12%)
+1696874932.720187962s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 88, objectives: 0, executions: 12843, exec/sec: 4.294k
+1696874932.720206945s                   (CLIENT) corpus: 88, objectives: 0, executions: 12843, exec/sec: 4.294k, shared_mem: 788/6208 (12%)
+1696874932.720319426s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 89, objectives: 0, executions: 12882, exec/sec: 4.307k
+1696874932.720329204s                   (CLIENT) corpus: 89, objectives: 0, executions: 12882, exec/sec: 4.307k, shared_mem: 788/6208 (12%)
+1696874932.723477375s [Stats       #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 89, objectives: 0, executions: 12882, exec/sec: 4.302k
+1696874932.723491311s                   (CLIENT) corpus: 89, objectives: 0, executions: 12882, exec/sec: 4.302k, shared_mem: 788/6208 (12%)
+1696874932.723579709s [Testcase    #0]  (GLOBAL) run time: 0h-0m-2s, clients: 1, corpus: 90, objectives: 0, executions: 12896, exec/sec: 4.307k
+1696874932.723591021s                   (CLIENT) corpus: 90, objectives: 0, executions: 12896, exec/sec: 4.307k, shared_mem: 788/6208 (12%)
+1696874932.75822027s [Stats       #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 90, objectives: 0, executions: 12896, exec/sec: 4.258k
+1696874932.758241197s                   (CLIENT) corpus: 90, objectives: 0, executions: 12896, exec/sec: 4.258k, shared_mem: 790/6208 (12%)
+1696874932.758416624s [Testcase    #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 91, objectives: 0, executions: 13045, exec/sec: 4.307k
+1696874932.758432798s                   (CLIENT) corpus: 91, objectives: 0, executions: 13045, exec/sec: 4.307k, shared_mem: 790/6208 (12%)
+1696874932.948080179s [Stats       #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 91, objectives: 0, executions: 13045, exec/sec: 4.053k
+1696874932.948099922s                   (CLIENT) corpus: 91, objectives: 0, executions: 13045, exec/sec: 4.053k, shared_mem: 791/6208 (12%)
+1696874932.948256661s [Testcase    #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 92, objectives: 0, executions: 13878, exec/sec: 4.311k
+1696874932.948272401s                   (CLIENT) corpus: 92, objectives: 0, executions: 13878, exec/sec: 4.311k, shared_mem: 791/6208 (12%)
+1696874933.210472838s [Stats       #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 92, objectives: 0, executions: 13878, exec/sec: 3.987k
+1696874933.210492839s                   (CLIENT) corpus: 92, objectives: 0, executions: 13878, exec/sec: 3.987k, shared_mem: 792/6208 (12%)
+1696874933.210650222s [Testcase    #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 93, objectives: 0, executions: 15036, exec/sec: 4.319k
+1696874933.210665782s                   (CLIENT) corpus: 93, objectives: 0, executions: 15036, exec/sec: 4.319k, shared_mem: 792/6208 (12%)
+1696874933.233600263s [Stats       #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 93, objectives: 0, executions: 15036, exec/sec: 4.291k
+1696874933.233613376s                   (CLIENT) corpus: 93, objectives: 0, executions: 15036, exec/sec: 4.291k, shared_mem: 792/6208 (12%)
+1696874933.233715715s [Testcase    #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 94, objectives: 0, executions: 15137, exec/sec: 4.319k
+1696874933.233725746s                   (CLIENT) corpus: 94, objectives: 0, executions: 15137, exec/sec: 4.319k, shared_mem: 792/6208 (12%)
+1696874933.262113481s [Stats       #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 94, objectives: 0, executions: 15137, exec/sec: 4.285k
+1696874933.262132369s                   (CLIENT) corpus: 94, objectives: 0, executions: 15137, exec/sec: 4.285k, shared_mem: 794/6208 (12%)
+1696874933.262286202s [Testcase    #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 95, objectives: 0, executions: 15264, exec/sec: 4.320k
+1696874933.262302678s                   (CLIENT) corpus: 95, objectives: 0, executions: 15264, exec/sec: 4.320k, shared_mem: 794/6208 (12%)
+1696874933.582200029s [Stats       #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 95, objectives: 0, executions: 15264, exec/sec: 3.962k
+1696874933.582214743s                   (CLIENT) corpus: 95, objectives: 0, executions: 15264, exec/sec: 3.962k, shared_mem: 795/6208 (12%)
+1696874933.582348s [Testcase    #0]  (GLOBAL) run time: 0h-0m-3s, clients: 1, corpus: 96, objectives: 0, executions: 16675, exec/sec: 4.328k
+1696874933.582358527s                   (CLIENT) corpus: 96, objectives: 0, executions: 16675, exec/sec: 4.328k, shared_mem: 795/6208 (12%)
+1696874933.895607125s [Stats       #0]  (GLOBAL) run time: 0h-0m-4s, clients: 1, corpus: 96, objectives: 0, executions: 16675, exec/sec: 4.002k
+1696874933.895621721s                   (CLIENT) corpus: 96, objectives: 0, executions: 16675, exec/sec: 4.002k, shared_mem: 796/6208 (12%)
+1696874933.895741284s [Testcase    #0]  (GLOBAL) run time: 0h-0m-4s, clients: 1, corpus: 97, objectives: 0, executions: 18041, exec/sec: 4.330k
+1696874933.895750667s                   (CLIENT) corpus: 97, objectives: 0, executions: 18041, exec/sec: 4.330k, shared_mem: 796/6208 (12%)
+1696874934.484368455s [Stats       #0]  (GLOBAL) run time: 0h-0m-4s, clients: 1, corpus: 97, objectives: 0, executions: 18041, exec/sec: 3.794k
+1696874934.484381629s                   (CLIENT) corpus: 97, objectives: 0, executions: 18041, exec/sec: 3.794k, shared_mem: 796/6208 (12%)
+1696874934.484497385s [Testcase    #0]  (GLOBAL) run time: 0h-0m-4s, clients: 1, corpus: 98, objectives: 0, executions: 20639, exec/sec: 4.340k
+1696874934.484507086s                   (CLIENT) corpus: 98, objectives: 0, executions: 20639, exec/sec: 4.340k, shared_mem: 796/6208 (12%)
+1696874934.675439805s [Stats       #0]  (GLOBAL) run time: 0h-0m-4s, clients: 1, corpus: 98, objectives: 0, executions: 20639, exec/sec: 4.173k
+1696874934.675455223s                   (CLIENT) corpus: 98, objectives: 0, executions: 20639, exec/sec: 4.173k, shared_mem: 797/6208 (12%)
+1696874934.675567644s [Testcase    #0]  (GLOBAL) run time: 0h-0m-4s, clients: 1, corpus: 99, objectives: 0, executions: 21421, exec/sec: 4.331k
+1696874934.675577206s                   (CLIENT) corpus: 99, objectives: 0, executions: 21421, exec/sec: 4.331k, shared_mem: 797/6208 (12%)
+1696874935.596264826s [Stats       #0]  (GLOBAL) run time: 0h-0m-5s, clients: 1, corpus: 99, objectives: 0, executions: 21421, exec/sec: 3.651k
+1696874935.596278244s                   (CLIENT) corpus: 99, objectives: 0, executions: 21421, exec/sec: 3.651k, shared_mem: 798/6208 (12%)
+1696874935.596402333s [Testcase    #0]  (GLOBAL) run time: 0h-0m-5s, clients: 1, corpus: 100, objectives: 0, executions: 25484, exec/sec: 4.344k
+1696874935.596412101s                   (CLIENT) corpus: 100, objectives: 0, executions: 25484, exec/sec: 4.344k, shared_mem: 798/6208 (12%)
+1696874935.681294454s [Stats       #0]  (GLOBAL) run time: 0h-0m-5s, clients: 1, corpus: 100, objectives: 0, executions: 25484, exec/sec: 4.282k
+1696874935.681309453s                   (CLIENT) corpus: 100, objectives: 0, executions: 25484, exec/sec: 4.282k, shared_mem: 798/6208 (12%)
+1696874935.681421254s [Testcase    #0]  (GLOBAL) run time: 0h-0m-5s, clients: 1, corpus: 101, objectives: 0, executions: 25852, exec/sec: 4.343k
+1696874935.681430961s                   (CLIENT) corpus: 101, objectives: 0, executions: 25852, exec/sec: 4.343k, shared_mem: 798/6208 (12%)
+1696874935.710013916s [Stats       #0]  (GLOBAL) run time: 0h-0m-5s, clients: 1, corpus: 101, objectives: 0, executions: 25852, exec/sec: 4.323k
+1696874935.710027181s                   (CLIENT) corpus: 101, objectives: 0, executions: 25852, exec/sec: 4.323k, shared_mem: 798/6208 (12%)
+1696874935.710133613s [Testcase    #0]  (GLOBAL) run time: 0h-0m-5s, clients: 1, corpus: 102, objectives: 0, executions: 25978, exec/sec: 4.344k
+1696874935.710143784s                   (CLIENT) corpus: 102, objectives: 0, executions: 25978, exec/sec: 4.344k, shared_mem: 798/6208 (12%)
+1696874935.722230301s [Stats       #0]  (GLOBAL) run time: 0h-0m-5s, clients: 1, corpus: 102, objectives: 0, executions: 25978, exec/sec: 4.335k
+1696874935.722243188s                   (CLIENT) corpus: 102, objectives: 0, executions: 25978, exec/sec: 4.335k, shared_mem: 798/6208 (12%)
+1696874935.722341105s [Testcase    #0]  (GLOBAL) run time: 0h-0m-5s, clients: 1, corpus: 103, objectives: 0, executions: 26021, exec/sec: 4.342k
+1696874935.722353244s                   (CLIENT) corpus: 103, objectives: 0, executions: 26021, exec/sec: 4.342k, shared_mem: 798/6208 (12%)
+1696874935.820180785s [Stats       #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 103, objectives: 0, executions: 26021, exec/sec: 4.272k
+1696874935.820194331s                   (CLIENT) corpus: 103, objectives: 0, executions: 26021, exec/sec: 4.272k, shared_mem: 798/6208 (12%)
+1696874935.820308834s [Testcase    #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 104, objectives: 0, executions: 26447, exec/sec: 4.342k
+1696874935.820318543s                   (CLIENT) corpus: 104, objectives: 0, executions: 26447, exec/sec: 4.342k, shared_mem: 798/6208 (12%)
+1696874935.903890583s [Stats       #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 104, objectives: 0, executions: 26447, exec/sec: 4.283k
+1696874935.90390528s                   (CLIENT) corpus: 104, objectives: 0, executions: 26447, exec/sec: 4.283k, shared_mem: 798/6208 (12%)
+1696874935.904018364s [Testcase    #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 105, objectives: 0, executions: 26815, exec/sec: 4.343k
+1696874935.904028603s                   (CLIENT) corpus: 105, objectives: 0, executions: 26815, exec/sec: 4.343k, shared_mem: 798/6208 (12%)
+1696874935.977049327s [Stats       #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 105, objectives: 0, executions: 26815, exec/sec: 4.292k
+1696874935.977062556s                   (CLIENT) corpus: 105, objectives: 0, executions: 26815, exec/sec: 4.292k, shared_mem: 799/6208 (12%)
+1696874935.977182669s [Testcase    #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 106, objectives: 0, executions: 27141, exec/sec: 4.344k
+1696874935.977192301s                   (CLIENT) corpus: 106, objectives: 0, executions: 27141, exec/sec: 4.344k, shared_mem: 799/6208 (12%)
+1696874936.45756482s [Stats       #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 106, objectives: 0, executions: 27141, exec/sec: 4.034k
+1696874936.457579415s                   (CLIENT) corpus: 106, objectives: 0, executions: 27141, exec/sec: 4.034k, shared_mem: 800/6208 (12%)
+1696874936.457697228s [Testcase    #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 107, objectives: 0, executions: 29296, exec/sec: 4.354k
+1696874936.457706992s                   (CLIENT) corpus: 107, objectives: 0, executions: 29296, exec/sec: 4.354k, shared_mem: 800/6208 (12%)
+1696874936.586685183s [Stats       #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 107, objectives: 0, executions: 29296, exec/sec: 4.272k
+1696874936.586699441s                   (CLIENT) corpus: 107, objectives: 0, executions: 29296, exec/sec: 4.272k, shared_mem: 800/6208 (12%)
+1696874936.586818944s [Testcase    #0]  (GLOBAL) run time: 0h-0m-6s, clients: 1, corpus: 108, objectives: 0, executions: 29859, exec/sec: 4.354k
+1696874936.586828556s                   (CLIENT) corpus: 108, objectives: 0, executions: 29859, exec/sec: 4.354k, shared_mem: 800/6208 (12%)
+1696874936.796102066s [Stats       #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 108, objectives: 0, executions: 29859, exec/sec: 4.225k
+1696874936.796119242s                   (CLIENT) corpus: 108, objectives: 0, executions: 29859, exec/sec: 4.225k, shared_mem: 801/6208 (12%)
+1696874936.796234917s [Testcase    #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 109, objectives: 0, executions: 30765, exec/sec: 4.353k
+1696874936.796246234s                   (CLIENT) corpus: 109, objectives: 0, executions: 30765, exec/sec: 4.353k, shared_mem: 801/6208 (12%)
+1696874936.872714843s [Stats       #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 109, objectives: 0, executions: 30765, exec/sec: 4.307k
+1696874936.872731511s                   (CLIENT) corpus: 109, objectives: 0, executions: 30765, exec/sec: 4.307k, shared_mem: 802/6208 (12%)
+1696874936.872843524s [Testcase    #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 110, objectives: 0, executions: 31091, exec/sec: 4.352k
+1696874936.872855597s                   (CLIENT) corpus: 110, objectives: 0, executions: 31091, exec/sec: 4.352k, shared_mem: 802/6208 (12%)
+1696874936.900906704s [Stats       #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 110, objectives: 0, executions: 31091, exec/sec: 4.335k
+1696874936.900923253s                   (CLIENT) corpus: 110, objectives: 0, executions: 31091, exec/sec: 4.335k, shared_mem: 802/6208 (12%)
+1696874936.901028957s [Testcase    #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 111, objectives: 0, executions: 31212, exec/sec: 4.352k
+1696874936.901040636s                   (CLIENT) corpus: 111, objectives: 0, executions: 31212, exec/sec: 4.352k, shared_mem: 802/6208 (12%)
+1696874937.027649813s [Stats       #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 111, objectives: 0, executions: 31212, exec/sec: 4.277k
+1696874937.027663543s                   (CLIENT) corpus: 111, objectives: 0, executions: 31212, exec/sec: 4.277k, shared_mem: 802/6208 (12%)
+1696874937.027780532s [Testcase    #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 112, objectives: 0, executions: 31769, exec/sec: 4.353k
+1696874937.027789948s                   (CLIENT) corpus: 112, objectives: 0, executions: 31769, exec/sec: 4.353k, shared_mem: 802/6208 (12%)
+1696874937.372718792s [Stats       #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 112, objectives: 0, executions: 31769, exec/sec: 4.156k
+1696874937.372736778s                   (CLIENT) corpus: 112, objectives: 0, executions: 31769, exec/sec: 4.156k, shared_mem: 802/6208 (12%)
+1696874937.37291019s [Testcase    #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 113, objectives: 0, executions: 33270, exec/sec: 4.353k
+1696874937.372925523s                   (CLIENT) corpus: 113, objectives: 0, executions: 33270, exec/sec: 4.353k, shared_mem: 802/6208 (12%)
+1696874937.455582815s [Stats       #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 113, objectives: 0, executions: 33270, exec/sec: 4.306k
+1696874937.455600659s                   (CLIENT) corpus: 113, objectives: 0, executions: 33270, exec/sec: 4.306k, shared_mem: 804/6208 (12%)
+1696874937.455771905s [Testcase    #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 114, objectives: 0, executions: 33628, exec/sec: 4.352k
+1696874937.455787142s                   (CLIENT) corpus: 114, objectives: 0, executions: 33628, exec/sec: 4.352k, shared_mem: 804/6208 (12%)
+1696874937.629103179s [Stats       #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 114, objectives: 0, executions: 33628, exec/sec: 4.257k
+1696874937.629121169s                   (CLIENT) corpus: 114, objectives: 0, executions: 33628, exec/sec: 4.257k, shared_mem: 804/6208 (12%)
+1696874937.62927931s [Testcase    #0]  (GLOBAL) run time: 0h-0m-7s, clients: 1, corpus: 115, objectives: 0, executions: 34386, exec/sec: 4.353k
+1696874937.629294246s                   (CLIENT) corpus: 115, objectives: 0, executions: 34386, exec/sec: 4.353k, shared_mem: 804/6208 (12%)
+1696874938.544724059s [Stats       #0]  (GLOBAL) run time: 0h-0m-8s, clients: 1, corpus: 115, objectives: 0, executions: 34386, exec/sec: 3.901k
+1696874938.544742579s                   (CLIENT) corpus: 115, objectives: 0, executions: 34386, exec/sec: 3.901k, shared_mem: 806/6208 (12%)
+1696874938.544904132s [Testcase    #0]  (GLOBAL) run time: 0h-0m-8s, clients: 1, corpus: 116, objectives: 0, executions: 38405, exec/sec: 4.356k
+1696874938.544920201s                   (CLIENT) corpus: 116, objectives: 0, executions: 38405, exec/sec: 4.356k, shared_mem: 806/6208 (12%)
+1696874938.909398569s [Stats       #0]  (GLOBAL) run time: 0h-0m-9s, clients: 1, corpus: 116, objectives: 0, executions: 38405, exec/sec: 4.184k
+1696874938.909412955s                   (CLIENT) corpus: 116, objectives: 0, executions: 38405, exec/sec: 4.184k, shared_mem: 807/6208 (12%)
+1696874938.909533028s [Testcase    #0]  (GLOBAL) run time: 0h-0m-9s, clients: 1, corpus: 117, objectives: 0, executions: 39993, exec/sec: 4.356k
+1696874938.909543315s                   (CLIENT) corpus: 117, objectives: 0, executions: 39993, exec/sec: 4.356k, shared_mem: 807/6208 (12%)
+1696874939.935114913s [Stats       #0]  (GLOBAL) run time: 0h-0m-10s, clients: 1, corpus: 117, objectives: 0, executions: 39993, exec/sec: 3.919k
+1696874939.935128483s                   (CLIENT) corpus: 117, objectives: 0, executions: 39993, exec/sec: 3.919k, shared_mem: 807/6208 (12%)
+1696874939.935241264s [Testcase    #0]  (GLOBAL) run time: 0h-0m-10s, clients: 1, corpus: 118, objectives: 0, executions: 44466, exec/sec: 4.357k
+1696874939.935250939s                   (CLIENT) corpus: 118, objectives: 0, executions: 44466, exec/sec: 4.357k, shared_mem: 807/6208 (12%)
+1696874940.454826991s [Stats       #0]  (GLOBAL) run time: 0h-0m-10s, clients: 1, corpus: 118, objectives: 0, executions: 44466, exec/sec: 4.146k
+1696874940.45484178s                   (CLIENT) corpus: 118, objectives: 0, executions: 44466, exec/sec: 4.146k, shared_mem: 808/6208 (13%)
+1696874940.454974286s [Testcase    #0]  (GLOBAL) run time: 0h-0m-10s, clients: 1, corpus: 119, objectives: 0, executions: 46749, exec/sec: 4.359k
+1696874940.454984535s                   (CLIENT) corpus: 119, objectives: 0, executions: 46749, exec/sec: 4.359k, shared_mem: 808/6208 (13%)
+1696874940.736529051s [Stats       #0]  (GLOBAL) run time: 0h-0m-11s, clients: 1, corpus: 119, objectives: 0, executions: 46749, exec/sec: 4.247k
+1696874940.736543501s                   (CLIENT) corpus: 119, objectives: 0, executions: 46749, exec/sec: 4.247k, shared_mem: 808/6208 (13%)
+1696874940.736660011s [Testcase    #0]  (GLOBAL) run time: 0h-0m-11s, clients: 1, corpus: 120, objectives: 0, executions: 47985, exec/sec: 4.359k
+1696874940.736669721s                   (CLIENT) corpus: 120, objectives: 0, executions: 47985, exec/sec: 4.359k, shared_mem: 808/6208 (13%)
+1696874941.184369203s [Stats       #0]  (GLOBAL) run time: 0h-0m-11s, clients: 1, corpus: 120, objectives: 0, executions: 47985, exec/sec: 4.189k
+1696874941.184387521s                   (CLIENT) corpus: 120, objectives: 0, executions: 47985, exec/sec: 4.189k, shared_mem: 808/6208 (13%)
+1696874941.184518702s [Testcase    #0]  (GLOBAL) run time: 0h-0m-11s, clients: 1, corpus: 121, objectives: 0, executions: 49949, exec/sec: 4.360k
+1696874941.184531064s                   (CLIENT) corpus: 121, objectives: 0, executions: 49949, exec/sec: 4.360k, shared_mem: 808/6208 (13%)
+1696874942.467739629s [Stats       #0]  (GLOBAL) run time: 0h-0m-12s, clients: 1, corpus: 121, objectives: 0, executions: 49949, exec/sec: 3.921k
+1696874942.467753723s                   (CLIENT) corpus: 121, objectives: 0, executions: 49949, exec/sec: 3.921k, shared_mem: 808/6208 (13%)
+1696874942.467879843s [Testcase    #0]  (GLOBAL) run time: 0h-0m-12s, clients: 1, corpus: 122, objectives: 0, executions: 55706, exec/sec: 4.373k
+1696874942.467889101s                   (CLIENT) corpus: 122, objectives: 0, executions: 55706, exec/sec: 4.373k, shared_mem: 808/6208 (13%)
+1696874943.164798986s [Stats       #0]  (GLOBAL) run time: 0h-0m-13s, clients: 1, corpus: 122, objectives: 0, executions: 55706, exec/sec: 4.146k
+1696874943.164815198s                   (CLIENT) corpus: 122, objectives: 0, executions: 55706, exec/sec: 4.146k, shared_mem: 808/6208 (13%)
+1696874943.164933414s [Testcase    #0]  (GLOBAL) run time: 0h-0m-13s, clients: 1, corpus: 123, objectives: 0, executions: 58755, exec/sec: 4.373k
+1696874943.164945465s                   (CLIENT) corpus: 123, objectives: 0, executions: 58755, exec/sec: 4.373k, shared_mem: 808/6208 (13%)
+1696874943.470412369s [Stats       #0]  (GLOBAL) run time: 0h-0m-13s, clients: 1, corpus: 123, objectives: 0, executions: 58755, exec/sec: 4.276k
+1696874943.47042662s                   (CLIENT) corpus: 123, objectives: 0, executions: 58755, exec/sec: 4.276k, shared_mem: 809/6208 (13%)
+1696874943.470548878s [Testcase    #0]  (GLOBAL) run time: 0h-0m-13s, clients: 1, corpus: 124, objectives: 0, executions: 60118, exec/sec: 4.375k
+1696874943.470558708s                   (CLIENT) corpus: 124, objectives: 0, executions: 60118, exec/sec: 4.375k, shared_mem: 809/6208 (13%)
+1696874943.996363567s [Stats       #0]  (GLOBAL) run time: 0h-0m-14s, clients: 1, corpus: 124, objectives: 0, executions: 60118, exec/sec: 4.214k
+1696874943.996382679s                   (CLIENT) corpus: 124, objectives: 0, executions: 60118, exec/sec: 4.214k, shared_mem: 809/6208 (13%)
+1696874943.99649465s [Testcase    #0]  (GLOBAL) run time: 0h-0m-14s, clients: 1, corpus: 125, objectives: 0, executions: 62308, exec/sec: 4.367k
+1696874943.996504251s                   (CLIENT) corpus: 125, objectives: 0, executions: 62308, exec/sec: 4.367k, shared_mem: 809/6208 (13%)
+1696874944.755933229s [Stats       #0]  (GLOBAL) run time: 0h-0m-15s, clients: 1, corpus: 125, objectives: 0, executions: 65673, exec/sec: 4.370k
+1696874944.75594759s                   (CLIENT) corpus: 125, objectives: 0, executions: 65673, exec/sec: 4.370k, shared_mem: 809/6208 (13%)
+1696874945.237070399s [Stats       #0]  (GLOBAL) run time: 0h-0m-15s, clients: 1, corpus: 125, objectives: 0, executions: 65673, exec/sec: 4.235k
+1696874945.237083532s                   (CLIENT) corpus: 125, objectives: 0, executions: 65673, exec/sec: 4.235k, shared_mem: 809/6208 (13%)
+1696874945.237197677s [Testcase    #0]  (GLOBAL) run time: 0h-0m-15s, clients: 1, corpus: 126, objectives: 0, executions: 67772, exec/sec: 4.370k
+1696874945.237207472s                   (CLIENT) corpus: 126, objectives: 0, executions: 67772, exec/sec: 4.370k, shared_mem: 809/6208 (13%)
+1696874946.248241574s [Stats       #0]  (GLOBAL) run time: 0h-0m-16s, clients: 1, corpus: 126, objectives: 0, executions: 67772, exec/sec: 4.103k
+1696874946.248255757s                   (CLIENT) corpus: 126, objectives: 0, executions: 67772, exec/sec: 4.103k, shared_mem: 810/6208 (13%)
+1696874946.248373891s [Testcase    #0]  (GLOBAL) run time: 0h-0m-16s, clients: 1, corpus: 127, objectives: 0, executions: 72150, exec/sec: 4.368k
+1696874946.248383618s                   (CLIENT) corpus: 127, objectives: 0, executions: 72150, exec/sec: 4.368k, shared_mem: 810/6208 (13%)
+1696874946.267653082s [Stats       #0]  (GLOBAL) run time: 0h-0m-16s, clients: 1, corpus: 127, objectives: 0, executions: 72150, exec/sec: 4.363k
+1696874946.267666709s                   (CLIENT) corpus: 127, objectives: 0, executions: 72150, exec/sec: 4.363k, shared_mem: 810/6208 (13%)
+1696874946.267769156s [Testcase    #0]  (GLOBAL) run time: 0h-0m-16s, clients: 1, corpus: 128, objectives: 0, executions: 72229, exec/sec: 4.367k
+1696874946.267778832s                   (CLIENT) corpus: 128, objectives: 0, executions: 72229, exec/sec: 4.367k, shared_mem: 810/6208 (13%)
+1696874946.412598648s [Stats       #0]  (GLOBAL) run time: 0h-0m-16s, clients: 1, corpus: 128, objectives: 0, executions: 72229, exec/sec: 4.329k
+1696874946.412612685s                   (CLIENT) corpus: 128, objectives: 0, executions: 72229, exec/sec: 4.329k, shared_mem: 810/6208 (13%)
+1696874946.41273081s [Testcase    #0]  (GLOBAL) run time: 0h-0m-16s, clients: 1, corpus: 129, objectives: 0, executions: 72810, exec/sec: 4.364k
+1696874946.412740462s                   (CLIENT) corpus: 129, objectives: 0, executions: 72810, exec/sec: 4.364k, shared_mem: 810/6208 (13%)
+1696874946.941940178s [Stats       #0]  (GLOBAL) run time: 0h-0m-17s, clients: 1, corpus: 129, objectives: 0, executions: 72810, exec/sec: 4.230k
+1696874946.941954064s                   (CLIENT) corpus: 129, objectives: 0, executions: 72810, exec/sec: 4.230k, shared_mem: 811/6208 (13%)
+1696874946.942086376s [Testcase    #0]  (GLOBAL) run time: 0h-0m-17s, clients: 1, corpus: 130, objectives: 0, executions: 75048, exec/sec: 4.360k
+1696874946.942096249s                   (CLIENT) corpus: 130, objectives: 0, executions: 75048, exec/sec: 4.360k, shared_mem: 811/6208 (13%)
+1696874947.624150886s [Stats       #0]  (GLOBAL) run time: 0h-0m-17s, clients: 1, corpus: 130, objectives: 0, executions: 75048, exec/sec: 4.194k
+1696874947.624164889s                   (CLIENT) corpus: 130, objectives: 0, executions: 75048, exec/sec: 4.194k, shared_mem: 813/6208 (13%)
+1696874947.624277427s [Testcase    #0]  (GLOBAL) run time: 0h-0m-17s, clients: 1, corpus: 131, objectives: 0, executions: 77977, exec/sec: 4.357k
+1696874947.624290015s                   (CLIENT) corpus: 131, objectives: 0, executions: 77977, exec/sec: 4.357k, shared_mem: 813/6208 (13%)
+1696874948.257700969s [Stats       #0]  (GLOBAL) run time: 0h-0m-18s, clients: 1, corpus: 131, objectives: 0, executions: 77977, exec/sec: 4.209k
+1696874948.257715197s                   (CLIENT) corpus: 131, objectives: 0, executions: 77977, exec/sec: 4.209k, shared_mem: 813/6208 (13%)
+1696874948.257839277s [Testcase    #0]  (GLOBAL) run time: 0h-0m-18s, clients: 1, corpus: 132, objectives: 0, executions: 80751, exec/sec: 4.358k
+1696874948.257849329s                   (CLIENT) corpus: 132, objectives: 0, executions: 80751, exec/sec: 4.358k, shared_mem: 813/6208 (13%)
+1696874950.371110089s [Stats       #0]  (GLOBAL) run time: 0h-0m-20s, clients: 1, corpus: 132, objectives: 0, executions: 80751, exec/sec: 3.912k
+1696874950.371128177s                   (CLIENT) corpus: 132, objectives: 0, executions: 80751, exec/sec: 3.912k, shared_mem: 813/6208 (13%)
+1696874950.371296688s [Testcase    #0]  (GLOBAL) run time: 0h-0m-20s, clients: 1, corpus: 133, objectives: 0, executions: 90013, exec/sec: 4.361k
+1696874950.371311966s                   (CLIENT) corpus: 133, objectives: 0, executions: 90013, exec/sec: 4.361k, shared_mem: 813/6208 (13%)
+1696874954.217738667s [Stats       #0]  (GLOBAL) run time: 0h-0m-24s, clients: 1, corpus: 133, objectives: 0, executions: 90013, exec/sec: 3.676k
+1696874954.217753292s                   (CLIENT) corpus: 133, objectives: 0, executions: 90013, exec/sec: 3.676k, shared_mem: 813/6208 (13%)
+1696874954.217873458s [Testcase    #0]  (GLOBAL) run time: 0h-0m-24s, clients: 1, corpus: 134, objectives: 0, executions: 106752, exec/sec: 4.359k
+1696874954.217883078s                   (CLIENT) corpus: 134, objectives: 0, executions: 106752, exec/sec: 4.359k, shared_mem: 813/6208 (13%)
+1696874956.366603019s [Stats       #0]  (GLOBAL) run time: 0h-0m-26s, clients: 1, corpus: 134, objectives: 0, executions: 106752, exec/sec: 4.008k
+1696874956.366621866s                   (CLIENT) corpus: 134, objectives: 0, executions: 106752, exec/sec: 4.008k, shared_mem: 813/6208 (13%)
+1696874956.366794465s [Testcase    #0]  (GLOBAL) run time: 0h-0m-26s, clients: 1, corpus: 135, objectives: 0, executions: 116215, exec/sec: 4.363k
+1696874956.366810041s                   (CLIENT) corpus: 135, objectives: 0, executions: 116215, exec/sec: 4.363k, shared_mem: 813/6208 (13%)
+1696874959.801663813s [Stats       #0]  (GLOBAL) run time: 0h-0m-30s, clients: 1, corpus: 135, objectives: 0, executions: 131320, exec/sec: 4.367k
+1696874959.80168217s                   (CLIENT) corpus: 135, objectives: 0, executions: 131320, exec/sec: 4.367k, shared_mem: 813/6208 (13%)
+1696874960.75178425s [Stats       #0]  (GLOBAL) run time: 0h-0m-31s, clients: 1, corpus: 135, objectives: 0, executions: 131320, exec/sec: 4.233k
+1696874960.75180322s                   (CLIENT) corpus: 135, objectives: 0, executions: 131320, exec/sec: 4.233k, shared_mem: 814/6208 (13%)
+1696874960.751972172s [Testcase    #0]  (GLOBAL) run time: 0h-0m-31s, clients: 1, corpus: 136, objectives: 0, executions: 135478, exec/sec: 4.367k
+1696874960.751987792s                   (CLIENT) corpus: 136, objectives: 0, executions: 135478, exec/sec: 4.367k, shared_mem: 814/6208 (13%)
+1696874961.037323353s [Stats       #0]  (GLOBAL) run time: 0h-0m-31s, clients: 1, corpus: 136, objectives: 0, executions: 135478, exec/sec: 4.327k
+1696874961.037337512s                   (CLIENT) corpus: 136, objectives: 0, executions: 135478, exec/sec: 4.327k, shared_mem: 816/6208 (13%)
+1696874961.037458494s [Testcase    #0]  (GLOBAL) run time: 0h-0m-31s, clients: 1, corpus: 137, objectives: 0, executions: 136758, exec/sec: 4.368k
+1696874961.037468619s                   (CLIENT) corpus: 137, objectives: 0, executions: 136758, exec/sec: 4.368k, shared_mem: 816/6208 (13%)
+1696874965.793299629s [Stats       #0]  (GLOBAL) run time: 0h-0m-36s, clients: 1, corpus: 137, objectives: 0, executions: 136758, exec/sec: 3.792k
+1696874965.79332142s                   (CLIENT) corpus: 137, objectives: 0, executions: 136758, exec/sec: 3.792k, shared_mem: 817/6208 (13%)
+1696874965.793507905s [Testcase    #0]  (GLOBAL) run time: 0h-0m-36s, clients: 1, corpus: 138, objectives: 0, executions: 157878, exec/sec: 4.378k
+1696874965.793523784s                   (CLIENT) corpus: 138, objectives: 0, executions: 157878, exec/sec: 4.378k, shared_mem: 817/6208 (13%)
+1696874967.256558995s [Stats       #0]  (GLOBAL) run time: 0h-0m-37s, clients: 1, corpus: 138, objectives: 0, executions: 157878, exec/sec: 4.207k
+1696874967.256576837s                   (CLIENT) corpus: 138, objectives: 0, executions: 157878, exec/sec: 4.207k, shared_mem: 820/6208 (13%)
+1696874967.256747831s [Testcase    #0]  (GLOBAL) run time: 0h-0m-37s, clients: 1, corpus: 139, objectives: 0, executions: 164354, exec/sec: 4.380k
+1696874967.256764557s                   (CLIENT) corpus: 139, objectives: 0, executions: 164354, exec/sec: 4.380k, shared_mem: 820/6208 (13%)
+1696874969.451338481s [Stats       #0]  (GLOBAL) run time: 0h-0m-39s, clients: 1, corpus: 139, objectives: 0, executions: 164354, exec/sec: 4.138k
+1696874969.451357363s                   (CLIENT) corpus: 139, objectives: 0, executions: 164354, exec/sec: 4.138k, shared_mem: 821/6208 (13%)
+1696874969.45153047s [Testcase    #0]  (GLOBAL) run time: 0h-0m-39s, clients: 1, corpus: 140, objectives: 0, executions: 173988, exec/sec: 4.380k
+1696874969.451545861s                   (CLIENT) corpus: 140, objectives: 0, executions: 173988, exec/sec: 4.380k, shared_mem: 821/6208 (13%)
+1696874971.077995281s [Stats       #0]  (GLOBAL) run time: 0h-0m-41s, clients: 1, corpus: 140, objectives: 0, executions: 173988, exec/sec: 4.208k
+1696874971.078022374s                   (CLIENT) corpus: 140, objectives: 0, executions: 173988, exec/sec: 4.208k, shared_mem: 822/6208 (13%)
+1696874971.078204896s [Testcase    #0]  (GLOBAL) run time: 0h-0m-41s, clients: 1, corpus: 141, objectives: 0, executions: 181079, exec/sec: 4.379k
+1696874971.078220169s                   (CLIENT) corpus: 141, objectives: 0, executions: 181079, exec/sec: 4.379k, shared_mem: 822/6208 (13%)
+1696874971.550350967s [Stats       #0]  (GLOBAL) run time: 0h-0m-41s, clients: 1, corpus: 141, objectives: 0, executions: 181079, exec/sec: 4.330k
+1696874971.55036903s                   (CLIENT) corpus: 141, objectives: 0, executions: 181079, exec/sec: 4.330k, shared_mem: 822/6208 (13%)
+1696874971.550535062s [Testcase    #0]  (GLOBAL) run time: 0h-0m-41s, clients: 1, corpus: 142, objectives: 0, executions: 183187, exec/sec: 4.380k
+1696874971.550550095s                   (CLIENT) corpus: 142, objectives: 0, executions: 183187, exec/sec: 4.380k, shared_mem: 822/6208 (13%)
+1696874971.939637855s [Stats       #0]  (GLOBAL) run time: 0h-0m-42s, clients: 1, corpus: 142, objectives: 0, executions: 183187, exec/sec: 4.340k
+1696874971.939657251s                   (CLIENT) corpus: 142, objectives: 0, executions: 183187, exec/sec: 4.340k, shared_mem: 822/6208 (13%)
+1696874971.939834831s [Testcase    #0]  (GLOBAL) run time: 0h-0m-42s, clients: 1, corpus: 143, objectives: 0, executions: 184913, exec/sec: 4.381k
+1696874971.939850292s                   (CLIENT) corpus: 143, objectives: 0, executions: 184913, exec/sec: 4.381k, shared_mem: 822/6208 (13%)
+1696874973.241190493s [Stats       #0]  (GLOBAL) run time: 0h-0m-43s, clients: 1, corpus: 143, objectives: 0, executions: 184913, exec/sec: 4.250k
+1696874973.241205006s                   (CLIENT) corpus: 143, objectives: 0, executions: 184913, exec/sec: 4.250k, shared_mem: 823/6208 (13%)
+1696874973.241322659s [Testcase    #0]  (GLOBAL) run time: 0h-0m-43s, clients: 1, corpus: 144, objectives: 0, executions: 190743, exec/sec: 4.384k
+1696874973.241332769s                   (CLIENT) corpus: 144, objectives: 0, executions: 190743, exec/sec: 4.384k, shared_mem: 823/6208 (13%)
+1696874973.319329599s [Stats       #0]  (GLOBAL) run time: 0h-0m-43s, clients: 1, corpus: 144, objectives: 0, executions: 190743, exec/sec: 4.376k
+1696874973.319344039s                   (CLIENT) corpus: 144, objectives: 0, executions: 190743, exec/sec: 4.376k, shared_mem: 823/6208 (13%)
+1696874973.319463473s [Testcase    #0]  (GLOBAL) run time: 0h-0m-43s, clients: 1, corpus: 145, objectives: 0, executions: 191099, exec/sec: 4.384k
+1696874973.319473189s                   (CLIENT) corpus: 145, objectives: 0, executions: 191099, exec/sec: 4.384k, shared_mem: 823/6208 (13%)
+1696874973.532045739s [Stats       #0]  (GLOBAL) run time: 0h-0m-43s, clients: 1, corpus: 145, objectives: 0, executions: 191099, exec/sec: 4.363k
+1696874973.532060695s                   (CLIENT) corpus: 145, objectives: 0, executions: 191099, exec/sec: 4.363k, shared_mem: 824/6208 (13%)
+1696874973.532175977s [Testcase    #0]  (GLOBAL) run time: 0h-0m-43s, clients: 1, corpus: 146, objectives: 0, executions: 192059, exec/sec: 4.385k
+1696874973.532185805s                   (CLIENT) corpus: 146, objectives: 0, executions: 192059, exec/sec: 4.385k, shared_mem: 824/6208 (13%)
+1696874974.83179013s [Stats       #0]  (GLOBAL) run time: 0h-0m-45s, clients: 1, corpus: 146, objectives: 0, executions: 197890, exec/sec: 4.388k
+1696874974.831804976s                   (CLIENT) corpus: 146, objectives: 0, executions: 197890, exec/sec: 4.388k, shared_mem: 824/6208 (13%)
+1696874976.677429767s [Stats       #0]  (GLOBAL) run time: 0h-0m-46s, clients: 1, corpus: 146, objectives: 0, executions: 197890, exec/sec: 4.215k
+1696874976.677445493s                   (CLIENT) corpus: 146, objectives: 0, executions: 197890, exec/sec: 4.215k, shared_mem: 825/6208 (13%)
+1696874976.677596612s [Testcase    #0]  (GLOBAL) run time: 0h-0m-46s, clients: 1, corpus: 147, objectives: 0, executions: 205900, exec/sec: 4.386k
+1696874976.677606796s                   (CLIENT) corpus: 147, objectives: 0, executions: 205900, exec/sec: 4.386k, shared_mem: 825/6208 (13%)
+1696874977.186649616s [Stats       #0]  (GLOBAL) run time: 0h-0m-47s, clients: 1, corpus: 147, objectives: 0, executions: 205900, exec/sec: 4.339k
+1696874977.18666384s                   (CLIENT) corpus: 147, objectives: 0, executions: 205900, exec/sec: 4.339k, shared_mem: 826/6208 (13%)
+1696874977.186781167s [Testcase    #0]  (GLOBAL) run time: 0h-0m-47s, clients: 1, corpus: 148, objectives: 0, executions: 208117, exec/sec: 4.385k
+1696874977.1867914s                   (CLIENT) corpus: 148, objectives: 0, executions: 208117, exec/sec: 4.385k, shared_mem: 826/6208 (13%)
+1696874977.353468409s [Stats       #0]  (GLOBAL) run time: 0h-0m-47s, clients: 1, corpus: 148, objectives: 0, executions: 208117, exec/sec: 4.370k
+1696874977.353482419s                   (CLIENT) corpus: 148, objectives: 0, executions: 208117, exec/sec: 4.370k, shared_mem: 826/6208 (13%)
+1696874977.353613801s [Testcase    #0]  (GLOBAL) run time: 0h-0m-47s, clients: 1, corpus: 149, objectives: 0, executions: 208845, exec/sec: 4.385k
+1696874977.353623846s                   (CLIENT) corpus: 149, objectives: 0, executions: 208845, exec/sec: 4.385k, shared_mem: 826/6208 (13%)
+1696874978.108774323s [Stats       #0]  (GLOBAL) run time: 0h-0m-48s, clients: 1, corpus: 149, objectives: 0, executions: 208845, exec/sec: 4.317k
+1696874978.108788128s                   (CLIENT) corpus: 149, objectives: 0, executions: 208845, exec/sec: 4.317k, shared_mem: 828/6208 (13%)
+1696874978.108904576s [Testcase    #0]  (GLOBAL) run time: 0h-0m-48s, clients: 1, corpus: 150, objectives: 0, executions: 212192, exec/sec: 4.386k
+1696874978.108914697s                   (CLIENT) corpus: 150, objectives: 0, executions: 212192, exec/sec: 4.386k, shared_mem: 828/6208 (13%)
+1696874978.82595355s [Stats       #0]  (GLOBAL) run time: 0h-0m-49s, clients: 1, corpus: 150, objectives: 0, executions: 212192, exec/sec: 4.322k
+1696874978.825967465s                   (CLIENT) corpus: 150, objectives: 0, executions: 212192, exec/sec: 4.322k, shared_mem: 828/6208 (13%)
+1696874978.826090667s [Testcase    #0]  (GLOBAL) run time: 0h-0m-49s, clients: 1, corpus: 151, objectives: 0, executions: 215328, exec/sec: 4.386k
+1696874978.826101002s                   (CLIENT) corpus: 151, objectives: 0, executions: 215328, exec/sec: 4.386k, shared_mem: 828/6208 (13%)
+1696874979.361874132s [Stats       #0]  (GLOBAL) run time: 0h-0m-49s, clients: 1, corpus: 151, objectives: 0, executions: 215328, exec/sec: 4.338k
+1696874979.361892538s                   (CLIENT) corpus: 151, objectives: 0, executions: 215328, exec/sec: 4.338k, shared_mem: 828/6208 (13%)
+1696874979.362004425s [Testcase    #0]  (GLOBAL) run time: 0h-0m-49s, clients: 1, corpus: 152, objectives: 0, executions: 217725, exec/sec: 4.387k
+1696874979.362015022s                   (CLIENT) corpus: 152, objectives: 0, executions: 217725, exec/sec: 4.387k, shared_mem: 828/6208 (13%)
+1696874980.18432464s [Stats       #0]  (GLOBAL) run time: 0h-0m-50s, clients: 1, corpus: 152, objectives: 0, executions: 217725, exec/sec: 4.315k
+1696874980.184344102s                   (CLIENT) corpus: 152, objectives: 0, executions: 217725, exec/sec: 4.315k, shared_mem: 828/6208 (13%)
+1696874980.18454658s [Testcase    #0]  (GLOBAL) run time: 0h-0m-50s, clients: 1, corpus: 153, objectives: 0, executions: 221382, exec/sec: 4.388k
+1696874980.1845784s                   (CLIENT) corpus: 153, objectives: 0, executions: 221382, exec/sec: 4.388k, shared_mem: 828/6208 (13%)
+1696874980.937840285s [Stats       #0]  (GLOBAL) run time: 0h-0m-51s, clients: 1, corpus: 153, objectives: 0, executions: 221382, exec/sec: 4.323k
+1696874980.937859672s                   (CLIENT) corpus: 153, objectives: 0, executions: 221382, exec/sec: 4.323k, shared_mem: 828/6208 (13%)
+1696874980.938034503s [Testcase    #0]  (GLOBAL) run time: 0h-0m-51s, clients: 1, corpus: 154, objectives: 0, executions: 224656, exec/sec: 4.387k
+1696874980.938050354s                   (CLIENT) corpus: 154, objectives: 0, executions: 224656, exec/sec: 4.387k, shared_mem: 828/6208 (13%)
+1696874981.780441885s [Stats       #0]  (GLOBAL) run time: 0h-0m-52s, clients: 1, corpus: 154, objectives: 0, executions: 224656, exec/sec: 4.316k
+1696874981.78046125s                   (CLIENT) corpus: 154, objectives: 0, executions: 224656, exec/sec: 4.316k, shared_mem: 828/6208 (13%)
+1696874981.780630993s [Testcase    #0]  (GLOBAL) run time: 0h-0m-52s, clients: 1, corpus: 155, objectives: 0, executions: 228351, exec/sec: 4.387k
+1696874981.78064596s                   (CLIENT) corpus: 155, objectives: 0, executions: 228351, exec/sec: 4.387k, shared_mem: 828/6208 (13%)
+1696874981.954369354s [Stats       #0]  (GLOBAL) run time: 0h-0m-52s, clients: 1, corpus: 155, objectives: 0, executions: 228351, exec/sec: 4.372k
+1696874981.954384621s                   (CLIENT) corpus: 155, objectives: 0, executions: 228351, exec/sec: 4.372k, shared_mem: 828/6208 (13%)
+1696874981.954538596s [Testcase    #0]  (GLOBAL) run time: 0h-0m-52s, clients: 1, corpus: 156, objectives: 0, executions: 229110, exec/sec: 4.387k
+1696874981.954548841s                   (CLIENT) corpus: 156, objectives: 0, executions: 229110, exec/sec: 4.387k, shared_mem: 828/6208 (13%)
+1696874982.152368219s [Stats       #0]  (GLOBAL) run time: 0h-0m-52s, clients: 1, corpus: 156, objectives: 0, executions: 229110, exec/sec: 4.370k
+1696874982.152388141s                   (CLIENT) corpus: 156, objectives: 0, executions: 229110, exec/sec: 4.370k, shared_mem: 828/6208 (13%)
+1696874982.152539675s [Testcase    #0]  (GLOBAL) run time: 0h-0m-52s, clients: 1, corpus: 157, objectives: 0, executions: 229978, exec/sec: 4.387k
+1696874982.152555613s                   (CLIENT) corpus: 157, objectives: 0, executions: 229978, exec/sec: 4.387k, shared_mem: 828/6208 (13%)
+1696874982.981029875s [Stats       #0]  (GLOBAL) run time: 0h-0m-53s, clients: 1, corpus: 157, objectives: 0, executions: 229978, exec/sec: 4.319k
+1696874982.981044921s                   (CLIENT) corpus: 157, objectives: 0, executions: 229978, exec/sec: 4.319k, shared_mem: 828/6208 (13%)
+1696874982.981163112s [Testcase    #0]  (GLOBAL) run time: 0h-0m-53s, clients: 1, corpus: 158, objectives: 0, executions: 233625, exec/sec: 4.387k
+1696874982.981173337s                   (CLIENT) corpus: 158, objectives: 0, executions: 233625, exec/sec: 4.387k, shared_mem: 828/6208 (13%)
+1696874989.860822819s [Stats       #0]  (GLOBAL) run time: 0h-1m-0s, clients: 1, corpus: 158, objectives: 0, executions: 263203, exec/sec: 4.377k
+1696874989.860846951s                   (CLIENT) corpus: 158, objectives: 0, executions: 263203, exec/sec: 4.377k, shared_mem: 828/6208 (13%)
+1696874990.056291416s [Stats       #0]  (GLOBAL) run time: 0h-1m-0s, clients: 1, corpus: 158, objectives: 0, executions: 263203, exec/sec: 4.363k
+1696874990.056309924s                   (CLIENT) corpus: 158, objectives: 0, executions: 263203, exec/sec: 4.363k, shared_mem: 828/6208 (13%)
+1696874990.056476354s [Testcase    #0]  (GLOBAL) run time: 0h-1m-0s, clients: 1, corpus: 159, objectives: 0, executions: 264065, exec/sec: 4.377k
+1696874990.056491323s                   (CLIENT) corpus: 159, objectives: 0, executions: 264065, exec/sec: 4.377k, shared_mem: 828/6208 (13%)
+1696874991.037367218s [Stats       #0]  (GLOBAL) run time: 0h-1m-1s, clients: 1, corpus: 159, objectives: 0, executions: 264065, exec/sec: 4.307k
+1696874991.037381184s                   (CLIENT) corpus: 159, objectives: 0, executions: 264065, exec/sec: 4.307k, shared_mem: 828/6208 (13%)
+1696874991.037501176s [Testcase    #0]  (GLOBAL) run time: 0h-1m-1s, clients: 1, corpus: 160, objectives: 0, executions: 268364, exec/sec: 4.377k
+1696874991.037511154s                   (CLIENT) corpus: 160, objectives: 0, executions: 268364, exec/sec: 4.377k, shared_mem: 828/6208 (13%)
+1696874991.443844872s [Stats       #0]  (GLOBAL) run time: 0h-1m-1s, clients: 1, corpus: 160, objectives: 0, executions: 268364, exec/sec: 4.348k
+1696874991.443863412s                   (CLIENT) corpus: 160, objectives: 0, executions: 268364, exec/sec: 4.348k, shared_mem: 828/6208 (13%)
+1696874991.444026951s [Testcase    #0]  (GLOBAL) run time: 0h-1m-1s, clients: 1, corpus: 161, objectives: 0, executions: 270073, exec/sec: 4.376k
+1696874991.444042265s                   (CLIENT) corpus: 161, objectives: 0, executions: 270073, exec/sec: 4.376k, shared_mem: 828/6208 (13%)
+1696874991.880564126s [Stats       #0]  (GLOBAL) run time: 0h-1m-2s, clients: 1, corpus: 161, objectives: 0, executions: 270073, exec/sec: 4.345k
+1696874991.880582824s                   (CLIENT) corpus: 161, objectives: 0, executions: 270073, exec/sec: 4.345k, shared_mem: 828/6208 (13%)
+1696874991.88075058s [Testcase    #0]  (GLOBAL) run time: 0h-1m-2s, clients: 1, corpus: 162, objectives: 0, executions: 271873, exec/sec: 4.374k
+1696874991.880765705s                   (CLIENT) corpus: 162, objectives: 0, executions: 271873, exec/sec: 4.374k, shared_mem: 828/6208 (13%)
+1696874992.432931629s [Stats       #0]  (GLOBAL) run time: 0h-1m-2s, clients: 1, corpus: 162, objectives: 0, executions: 271873, exec/sec: 4.336k
+1696874992.4329458s                   (CLIENT) corpus: 162, objectives: 0, executions: 271873, exec/sec: 4.336k, shared_mem: 828/6208 (13%)
+1696874992.43306562s [Testcase    #0]  (GLOBAL) run time: 0h-1m-2s, clients: 1, corpus: 163, objectives: 0, executions: 274282, exec/sec: 4.374k
+1696874992.433075419s                   (CLIENT) corpus: 163, objectives: 0, executions: 274282, exec/sec: 4.374k, shared_mem: 828/6208 (13%)
+1696874995.134535946s [Stats       #0]  (GLOBAL) run time: 0h-1m-5s, clients: 1, corpus: 163, objectives: 0, executions: 274282, exec/sec: 4.194k
+1696874995.134550486s                   (CLIENT) corpus: 163, objectives: 0, executions: 274282, exec/sec: 4.194k, shared_mem: 828/6208 (13%)
+1696874995.134671066s [Testcase    #0]  (GLOBAL) run time: 0h-1m-5s, clients: 1, corpus: 164, objectives: 0, executions: 286034, exec/sec: 4.373k
+1696874995.13468081s                   (CLIENT) corpus: 164, objectives: 0, executions: 286034, exec/sec: 4.373k, shared_mem: 828/6208 (13%)
